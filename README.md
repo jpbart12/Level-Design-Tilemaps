@@ -1,34 +1,10 @@
-# Moddable Platformer
+John Bartlett
+Time- 
+1-2 hours learning how tilemaps work and how to use them on levels/scenses
+4 hours implementing/creating the levels this included making all the new scenes and levels, playtesting for bugs, adding new features like when you touch the flag it brings you to the next scene
+1 hour actually playing levels to make sure they function how I wanted like adding new platforms to areas you couldn't reach, having it so you collect all the coins, and seeing if its enjoyable
 
+#Moddable Platformer
 This mini moddable game project by [Endless Access](https://endlessaccess.org)
-is intended to help ease the learning curve into Godot.
 
-This sample project allows learners to engage with game creation concepts,
-applying various modifications to the game itself, all without reading or
-writing any code.
 
-The `doc/MODS.md` file details the mods that have been made available.
-
-## Contributing
-
-We encourage contributions that continue to address the intended audience and
-design of of this project. You can communicate with us through the
-[Endless Studios](https://studio.endlessstudios.com/studio/games/Moddable-Platformer/)
-community platform and submit pull requests via
-[GitHub](https://github.com/endlessm/moddable-platformer).
-
-### Development environment
-
-Please use [pre-commit](https://pre-commit.com) to check for correct formatting
-and other issues before creating commits. To do this automatically, you can add
-it as a git hook:
-
-```
-# If you don't have pre-commit already:
-pip install pre-commit
-
-# Setup git hook:
-pre-commit install
-```
-
-Now `pre-commit` will run automatically on `git commit`!
